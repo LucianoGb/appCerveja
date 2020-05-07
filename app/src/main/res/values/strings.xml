@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">appCerveja</string>
+    <string name="find_beer">Procure Cerveja</string>
+    <string name="brands">Nenhuma cerveja selecionada</string>
+    <string name="choice">Escolha um tipo:</string>
+
+    <string-array name="beer_coolors">
+        <item>Pilsen</item>
+        <item>Stout</item>
+        <item>Puro Malte</item>
+        <item>IPA</item>
+    </string-array>
+</resources>
